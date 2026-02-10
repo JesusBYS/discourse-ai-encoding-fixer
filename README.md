@@ -1,0 +1,1 @@
+# discourse-ai-encoding-fixer
